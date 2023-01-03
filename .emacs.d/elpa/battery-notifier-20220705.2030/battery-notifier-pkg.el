@@ -1,0 +1,2 @@
+;;; Generated package description from /home/mac/.emacs.d/elpa/battery-notifier-20220705.2030/battery-notifier.el  -*- no-byte-compile: t -*-
+(define-package "battery-notifier" "20220705.2030" "Notify when battery capacity is low" '((alert "1.3")) :commit "b7301d3633afff78609afd45dcf78268f98d52d3" :authors '(("Jason Johnson" . "jason@fullsteamlabs.com")) :maintainer '("Jason Johnson" . "jason@fullsteamlabs.com") :keywords '("hardware" "battery") :url "https://github.com/jasonmj/battery-notifier")

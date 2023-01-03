@@ -1,0 +1,2 @@
+;;; Generated package description from /home/mac/.emacs.d/elpa/connection-20191111.446/connection.el  -*- no-byte-compile: t -*-
+(define-package "connection" "20191111.446" "TCP-based client connection" 'nil :commit "c9cad101100975e88873636bfd426b7a19304ebd" :authors '(("Torsten Hilbrich" . "torsten.hilbrich@gmx.net")) :maintainer '("Torsten Hilbrich" . "torsten.hilbrich@gmx.net") :keywords '("network"))

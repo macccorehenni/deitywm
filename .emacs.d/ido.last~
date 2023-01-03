@@ -1,0 +1,26 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/mac/" . "chronos/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/mac/chronos/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "chronos.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/mac/chronos/" (25523 22739 854395 25000) "../" "chronos.el" "./" ".git/")
+
+ ("/home/mac/" (25523 22724 326114 671000) "home" "ntfy.el~" ".emacs~" ".emacs" ".Xdefaults" ".bashrc" ".bash_history" "../" "#eggs.md#" "mac.md" "eggs.html" "ahdiscussion5.md~" "life.md~" ".cache/" ".wget-hsts" ".profile" ".aspell.en.pws" ".gnupg/" "ntfy.elc" ".mozilla/" ".xscreensaver" "./" "Videos/" ".#this.org" ".Xauthority" ".lesshst" ".aspell.en.prepl" ".xinitrc" ".sudo_as_admin_successful" ".ICEauthority" "eggs.md" "Downloads/" "Templates/" "ahdiscussion5.html~" "Documents/" "chronos/" ".bash_logout" ".emacs.d/" "Music/" ".pki/" ".config/" "mac.md~" "#this.org#" ".dbus/" ".xsession-errors" ".gnome/" "screensaver.txt" "Pictures/" "chrome" ".local/" "eggs.md~" "emacs.org~" ".kodi/" "Desktop/" ".emacs.]ad" ".xsessionrc" "ntfy.el" "ahcollagedesc.md~" ".thumbnails/" ".gphoto/" "Public/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

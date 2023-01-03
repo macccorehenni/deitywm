@@ -1,0 +1,2 @@
+;;; Generated package description from /home/mac/.emacs.d/elpa/alsamixer-20191002.1133/alsamixer.el  -*- no-byte-compile: t -*-
+(define-package "alsamixer" "20191002.1133" "Functions to call out to amixer." 'nil :commit "1bdb99e433acd38685f05408562746cfbf2bc820" :authors '(("R.W. van 't Veer")) :maintainer '("R.W. van 't Veer") :keywords '("convenience") :url "https://github.com/remvee/alsamixer-el")

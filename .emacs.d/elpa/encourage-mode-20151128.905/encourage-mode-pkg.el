@@ -1,0 +1,2 @@
+;;; Generated package description from /home/mac/.emacs.d/elpa/encourage-mode-20151128.905/encourage-mode.el  -*- no-byte-compile: t -*-
+(define-package "encourage-mode" "20151128.905" "Encourages you in your work. :D" '((emacs "24.4")) :commit "ca411e6bfd3d0edffe95852127bd995730b942e3" :authors '(("Patrick Mosby" . "patrick@schreiblogade.de")) :maintainer '("Patrick Mosby" . "patrick@schreiblogade.de") :keywords '("fun") :url "https://github.com/halbtuerke/encourage-mode.el")

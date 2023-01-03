@@ -1,0 +1,2 @@
+;;; Generated package description from /home/mac/.emacs.d/elpa/bart-mode-20190601.1004/bart-mode.el  -*- no-byte-compile: t -*-
+(define-package "bart-mode" "20190601.1004" "Real time BART departures info." '((emacs "24.3")) :commit "f70b6c42452e47c0c6b3ebd4c90e555a9bedeec7" :authors '(("Michael Schuldt" . "mbschuldt@gmail.com")) :maintainer '("Michael Schuldt" . "mbschuldt@gmail.com") :keywords '("convenience" "transit") :url "https://github.com/mschuldt/bart-mode")
